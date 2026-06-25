@@ -24,7 +24,7 @@ Backend developer working with **Python** and **Django**.
 
 **Let's Connect**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/queen-esther-aniugbo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=flat-square&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/queen-esther-aniugbo/))
 [![Email](https://img.shields.io/badge/Email-1a1a2e?style=flat-square&logo=gmail&logoColor=white)](mailto:ezinneaniugbo@gmail.com)
 
 <br/>
