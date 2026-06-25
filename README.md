@@ -8,7 +8,8 @@
 
 **About**
 
-Backend developer working with **Python** and **Django**.   
+Backend developer working with **Python** and **Django**.  
+ 
 *Am I testing the code, or is it testing me?*
 
 <br/>
@@ -24,8 +25,8 @@ Backend developer working with **Python** and **Django**.
 
 **Let's Connect**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=flat-square&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/queen-esther-aniugbo/))
-[![Email](https://img.shields.io/badge/Email-1a1a2e?style=flat-square&logo=gmail&logoColor=white)](mailto:ezinneaniugbo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/queen-esther-aniugbo/)
+[![Email](https://img.shields.io/badge/Email-1a1a2e?style=flat-square&logo=gmail&logoColor=white)](mailto:eziineaniugbo@gmail.com)
 
 <br/>
 
